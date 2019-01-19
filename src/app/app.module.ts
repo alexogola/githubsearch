@@ -13,7 +13,8 @@ import { ProfileComponent } from './components/profile/profile.component';
   declarations: [
     AppComponent,
     GithubComponent,
-    ProfileComponent
+    ProfileComponent,
+    HttpModule
   ],
   imports: [
     BrowserModule,
